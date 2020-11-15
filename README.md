@@ -19,7 +19,7 @@ My broad areas of interest are:
 - Machine Learning in Fluid Mechanics.
 - Random dynamical systems.
 
-<>![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=chandanbose&count_private=true)
+<![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=chandanbose&count_private=true)>
 
 
 ## Publications
