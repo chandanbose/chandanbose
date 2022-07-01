@@ -22,4 +22,4 @@ His broad areas of interest are:
 ## Contact
 I would love to hear from enthusiastic individuals/groups actively working in the broad area of my research interest to explore possible corridors of collaboration.
 You can reach me at:
-cb.ju.1991@gmail.com/ chandan.bose@uliege.be
+cb.ju.1991@gmail.com/ chandan.bose@ed.ac.uk
