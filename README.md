@@ -1,12 +1,7 @@
 ### Hi there 👋
-I am [Chandan Bose](https://www.chandanbose.com). I am currently a Postdoctoral Research Associate in the [Fluid-Structure Interactions and Experimental Aerodynamics Laboratory](http://www.ltas-aea.ulg.ac.be//cms/), Dept.of Aerospace and Mechanical Engineering, University of Liège, Belgium. 
-I closely collaborate with the [Multi-physics and Turbulent Flow Computation research group](https://www.mtfc.uliege.be/cms/c_3978232/en/multiphysics-and-turbulent-flow-computation-research-group-portal) here. 
-I have obtained M.S. and Ph.D. from the Dept. of Applied Mechanics, IIT Madras, India. 
-I worked at the [Uncertainty Laboratoty](https://home.iitm.ac.in/sayan/page3.html) and the [Biomimetics and Dynamics Laboratory](https://home.iitm.ac.in/sunetra/page4.html) there. 
-I am passionately interested in fluid dynamics problems of different tastes especially with a flavour of nonlinear dynamics. 
-My current research focus is on understanding low speed unsteady aerodynamics/ hydrodynamics and nonlinear fluid-structure interaction behaviour of bio-inspired propulsion.
+Chandan is presently a senior Post-Doctoral Research Associate at the Vortex Interaction Laboratory (VOILAb) within the Institute for Energy Systems, School of Engineering, The University of Edinburgh. Previously, he was a Wallonie Bruxelles International Excellence Post-Doctoral Fellow at the Fluid-Structure Interactions and Experimental Aerodynamics Laboratory and the Multi-physics and Turbulent Flow Computation Laboratory, Dept. of Aerospace and Mechanical Engineering, University of Liège, Belgium. He has obtained his M.S. and Ph.D. degrees from the Dept. of Applied Mechanics, IIT Madras, India, where he worked at the Uncertainty Laboratory and the Biomimetics Laboratory. He is passionately interested in fluid dynamics problems of different tastes, especially with flavours of turbulence and nonlinear dynamics. He aims to investigate a variety of complex multiphysics problems involving coupled nonlinear interactions, among which fluid-structure interaction and turbulence are his primary research focus.
 
-My broad areas of interest are:
+His broad areas of interest are:
 
 - Fluid-Structure Interactions
 - Biological Fluid Dynamics.
