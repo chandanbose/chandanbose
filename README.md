@@ -4,22 +4,19 @@ Chandan is presently a senior Post-Doctoral Research Associate at the Vortex Int
 His broad areas of interest are:
 
 - Fluid-Structure Interactions
-- Biological Fluid Dynamics.
 - Unsteady Aerdynamics.
-- Flow Induced Energy Harvesting.
 - Multi-Phase Flows.
 - Nonlinear Dynamics and Chaos.
 - High Performance Computing.
-- Modal Decomposition and Reduced-Order Modelling.
 - Machine Learning in Fluid Mechanics.
-- Random dynamical systems.
 
 <!--![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=chandanbose&count_private=true)-->
 
 
 ## Publications
 
-[_"Google Scholar"_](https://scholar.google.com/citations?user=pj618AMAAAAJ&hl=en)
+[_Google Scholar_](https://scholar.google.com/citations?user=pj618AMAAAAJ&hl=en)
+[_ResearchGate_](https://www.researchgate.net/profile/Chandan-Bose-5)
 
 
 ## Contact
